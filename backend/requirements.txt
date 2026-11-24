@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+python-multipart
+faster-whisper
+librosa
+soundfile
+scipy
+scikit-learn
+numpy
+psycopg[binary]>=3.2,<4
